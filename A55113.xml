@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Plea to the Duke's answers fiat justitia, ruat coelum, Anglice, the Bill in the Honourable the late House of Commons against the D. was their duty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55113</idno>
+            <idno type="STC">Wing P2526</idno>
+            <idno type="STC">ESTC R8364</idno>
+            <idno type="EEBO-CITATION">13733049</idno>
+            <idno type="OCLC">ocm 13733049</idno>
+            <idno type="VID">101613</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101613)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 846:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Plea to the Duke's answers fiat justitia, ruat coelum, Anglice, the Bill in the Honourable the late House of Commons against the D. was their duty.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101613:1" rendition="simple:additions"/>
+            <head>A PLEA TO THE DUKE's Anſwers.</head>
+            <head type="sub">
+               <hi>Fiat juſtitia, ruat Coelum. Anglice,</hi> The Bill in the Honourable the late Houſe of Com<g ref="char:EOLhyphen"/>mons againſt the <hi>D.</hi> was their Duty.</head>
+            <p>WHoop, <hi>Weighty Conſiderations,</hi> &amp;c.! what noiſe is this? the De<g ref="char:EOLhyphen"/>vil's, <hi>it's doubt</hi> beſides's Adhererents, Heirs and Succeſſors di<g ref="char:EOLhyphen"/>ſturb'd what's the matter?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> Such a Bill as this in the Houſe of Commons againſt the D!</p>
+            <p>
+               <hi>Anſ.</hi> Wellow day; but what then?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label>  Againſt God's expreſs Word.</p>
+            <p>
+               <hi>Anſ.</hi> Is that it? <hi>pity,</hi> but why, how, or where?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label>  We muſt truſt and rely only on God to ſave us.</p>
+            <p>
+               <hi>Anſ.</hi> Oh, oh; but muſt not we endeavour, uſe the means, &amp;c. as God has enabled us? the Husbandman ſows, the Mariner ſets ſail; muſt we tempt God, be ſtupid, ſupine, expoſe our ſelves, ſeek giving you an occaſion of, &amp;c?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label>  Indeed <hi>Aſa</hi> depoſed <hi>Mahacah,</hi> becauſe of'r Idolatry; <hi>Jehu</hi> dethroned <hi>Joram,</hi> and <hi>Jeroboam Rehoboam;</hi> but theſe are Examples only to read, not imitate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label>  Thus you tell us not your ſelves. And ſee 1 <hi>King. c.</hi> 11. the Prophet <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hijah</hi> told <hi>Jeroboam, Jehovah</hi> ſays it, He will rend this Kingdom, and give thee ten Tribes; and in 1 <hi>King.</hi> 12. God himſelf owns what <hi>Jeroboam</hi> did as his own Act, in diſpoſ<g ref="char:EOLhyphen"/>ſeſſing King <hi>Rehoboam,</hi> and making himſelf King. The Prophets in God's Name anointed <hi>Jehu</hi> King over <hi>Iſrael,</hi> with ſpecial direction to deſtroy the King and's whole Line, 2 <hi>King.</hi> 9. And when <hi>Jehu</hi> had done ſo, God approves of it, <hi>c.</hi> 10. <hi>v.</hi> 30. And in 2 <hi>Chron.</hi> 15. when <hi>v.</hi> 16. ſays <hi>Aſa</hi> did ſo, next <hi>v.</hi> ſays, <hi>Aſa</hi> was an upright man [and that too] all's life.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label>  Many Papiſts in <hi>France</hi> aſſiſted the Proteſtant King of <hi>Navarre,</hi> to be theirs.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label>  More, an hundred to one oppoſed him, as appears by the Hiſtory.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label>  We ſwearing Faith and true Allegiance to the King, his Heirs and Succeſ<g ref="char:EOLhyphen"/>ſors, do therefore to the D. as being Heir and any thing we attempt againſt him, is a<g ref="char:EOLhyphen"/>gainſt our Oath. For he's Heir in common ſenſe that's next perſon likely to inherit. <hi>Cook</hi> ſays<g ref="char:punc">▪</g> he's Heir apparent, and its non-ſenſe to ſay Heir apparent is not an Heir. And ſo doth the Scripture too call him Heir, <hi>Gen.</hi> 15.13. 2 <hi>Sam.</hi> 14.7. <hi>Mat.</hi> 21.38. <hi>Mark</hi> 12.17 <hi>Luk.</hi> 20 14. <hi>Gal.</hi> 4.1.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label>  Fine! here's a whim, here's wit with a witneſs: but poor Devil. its pity, any one, though as blind as with thy Zeal, but reading the Stat. [3 <hi>Jac.</hi> 4.] may plainly ſee the words nor ſenſe in any wiſe warrant thy Caſe, if yet he were Heir, as thou'dſt have him. And beſides, he's no Heir. <hi>Gen.</hi> ſays only —ſhall be my Heir [which proves he is not] In <hi>Sam.</hi> and <hi>Gall.</hi> the Father's dead when Son's called ſo.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label>  Oh but what ſay <hi>Matth. Mark</hi> and <hi>Luke?</hi>
+            </p>
+            <pb n="2" facs="tcp:101613:2" rendition="simple:additions"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label>  They all telling the ſame ſtory, ſay, the Rabble in the Vineyard called the Son Heir, his Father yet alive; but now was he Heir, thoſe illiterate fellows only chancing to call him ſo? Great, wiſe, and learned <hi>Abraham</hi> ſaid, <hi>Lot</hi> was his Brother as he was Son of his Brother, and's Wife <hi>Sarah</hi> was his Siſter, as being's Brother's Daughters; what now, is it commonly taken with us that our Brother's Son is our Brother, &amp;c? In Civil Law, no body's ſaid Heir but when ſucceeds his friend in's eſtate: in our Law he's ſaid Heir which ſucceeds by right of blood; thus, till he ſuc<g ref="char:EOLhyphen"/>ceeds, he's no Heir and he cann't ſucceed till his friends death. It's a maxim, <hi>ſolus Deus haeredem ſacere poteſt;</hi> that is, only death makes Heirs. But for example, By agreement I am to pay your Heirs money, or they me: does any body expect any payment during your life? is it Jeſuitical to ſay no? ſure the ſenſe is plain. Heir apparent is only and peculiarly a Law-term, little uſed, barbarous, improper and abſurd enough. Heir apparent is at beſt an Heir but as the Logician's <hi>poſſe</hi> is <hi>eſſe.</hi> Now they'l ſay, ſuppoſe thee never ſo honeſt a man in <hi>eſse,</hi> yet thou art worſt of Knaves, &amp;c. in <hi>poſse;</hi> while, methinks, it's hard to call thee worſt of Knaves, &amp;c. becauſe thou art ſo in <hi>poſse.</hi> Beſides, the Law makes diſtinctions and degrees of Heirs, as <hi>proximi,</hi> the Sons, <hi>remotiores,</hi> Nephews. &amp;c. and laſtly Brothers. Who ever heard a Brother (which is of ſo remote a degree) called Heir apparent? Laſtly, how wild is this? If we were bound as aforeſaid to the D. becauſe he may be Heir; ſo there being thouſands may be Heirs, we are bound to them too, though ſo much as know'm not. Thus, are we bound to ſerve God and Mammon too? then poor we! <hi>Ecquis poſſit ſervire ducbus?</hi> Thus Faith, Allegiance, and Defence of and to a Subject, yea Subjects, God knows how many which was ne<g ref="char:EOLhyphen"/>ver heard of, and yet without any <hi>ſalvo</hi> to the King too; which is ſo much againſt Law, See <hi>Co. L.</hi> 65. <hi>monſtr. horrend. &amp;c!</hi> the D. may as well pretend to have a pre<g ref="char:EOLhyphen"/>ſent ſhare of all the Taxes granted by Parliament to the King, his Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label>  Yet thus, however contrary to's will, and all juſtice, he's robbed by a Fa<g ref="char:EOLhyphen"/>ction of's inferiours.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label>  The D.'s a Man, and a Subject as well, and no more than the meaneſt per<g ref="char:EOLhyphen"/>ſon in the Kingdom; he's thus debarred only by an Act of King, Lords and Com<g ref="char:EOLhyphen"/>mons [for otherwiſe he cann't be] what Parliament does, he's by all Laws in all places preſumed <hi>as he is a Subject,</hi> conſenting to, what is he robbed, when by's conſent? by's <hi>inferiours,</hi> when by King, &amp;c?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label>  As D. may be ſerved thus, the King may be dethroned too, neither is any body ſafe of any thing.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label>  It's abſolutely neceſſary and eſſential in all Government, that a Power be lodg'd ſomewhere, or ſomehow [as the <hi>Iſraelites</hi> gave the Power to <hi>Moſes</hi>] over all Parties, their Lives, Eſtates, and every thing; elſe Juſtice muſt fail, Faults go unpuniſhed, and Deſerts be unrewarded, nor could any thing otherwiſe be improved or maintained for the common Good, or private either, but all muſt neceſſarily fall, and run to Confuſion, <hi>&amp;c.</hi> This Power with us is in the Parliament, and ſure pla<g ref="char:EOLhyphen"/>ced, the beſt it can be. Thus it's either in our ſelves, or ſince we can't be all at Parliament, we chooſing others to do there<g ref="char:punc">▪</g> what we could if were there our ſelves, as we do chooſing Parliament-Men, it's in our Repreſentatives theſe Men we thus entruſt, together with the King and Lords. Now ſuppoſe the Skies may fall, and ſuch Act as the <hi>Objection</hi> ſpeaks of ſhould come, yet ſince before any ſuch Act can be againſt the King. He muſt give His own Conſent Himſelf to it; and before againſt any other, it muſt be with this other perſon's conſent immediately, or by conſent of whom he has choſe to repreſent him, and give's conſent. Can we ſay any Act does us wrong, any of us? No more than that a Man's injured and diſ<g ref="char:EOLhyphen"/>pleaſed with his own good-will and liking, abſurd, and againſt the moſt undeni<g ref="char:EOLhyphen"/>able Maxim, <hi>Volenti non ſit injuria.</hi> Furthermore. How contrary to Religion, Juſtice, or Law, any wiſe? It's well enough known, every King at firſt was created
+<pb n="3" facs="tcp:101613:2"/>and elected under Laws and Conditions, by and with the free general Votes of the people, ſubjecting themſelves to Him, as ſome Notable Man amongſt them for Equi<g ref="char:EOLhyphen"/>ty and Juſtice, to govern them, and defend their Laws, Liberties, Perſons and Eſtates, <hi>Con<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rru. in c.</hi> 1. <hi>pract qq. n.</hi> 4. <hi>Ludovic. Velazquez de Avendam. l.</hi> 40. <hi>Taur. gloſs.</hi> 1. <hi>n.</hi> 9. <hi>Chryſ. Hom.</hi> 7. <hi>ad pop. Antioch. Forteſe. de laud. &amp;c. c.</hi> 13, 14. ſo <hi>Bodinus</hi> in ſeveral places. And <hi>Hom. l.</hi> 7. <hi>Odyſſ.</hi> calls a Kingdom a Reward of Vir<g ref="char:EOLhyphen"/>tue and Merit, of the peoples giving. Thus a King is not for's own, but's Subjects ſake only: and we have in truth rather title, <hi>&amp;c.</hi> to Him, than He to us: ſee 1 <hi>Sam.</hi> 9.16. 1. <hi>Kings</hi> 10.9. Thus when Kings themſelves be ill ones, God not only ap<g ref="char:EOLhyphen"/>proves of their removal, but even himſelf does it, &amp;c. 2 <hi>Kings</hi> 24.2. <hi>&amp;c.</hi> 2 <hi>Cr. c.</hi> 10. <hi>&amp;</hi> 11. 1 <hi>Kings</hi> 11. <hi>&amp;c. c.</hi> 16.14, 15. <hi>c.</hi> 21. <hi>c.</hi> 16.4, 5, 6. 2 <hi>Kings</hi> 9.25. <hi>Job</hi> 34.30. <hi>Sed praeſtat cu il ela, quam medela;</hi> Care beforehand's, better than Cure after. God commands chooſe a King; but not according to that which Man reſpects, [<hi>viz.</hi> the outward circumſtances] but the heart, 1 <hi>Sam.</hi> 16.7. ſee the like in ſeveral places. Kingdoms are what but politick things; then, under the Government of the Laws: Hence ſome be Hereditary, others Elective, according to the Politick Cuſtoms thereof, and with as much difference in the methods, &amp;c. of Succeſſion, and the like of Elections<g ref="char:punc">▪</g> as there is between Succeſſion and Election; which could never be, if Title to Crowns were beyond, or not under the power of the Laws of the people. Elective are the Empire of <hi>Germany,</hi> Kingdom of <hi>Poland, Hungary, Bohemia,</hi> [when Kingdoms] <hi>Æthiopia,</hi> of the <hi>Goths,</hi> of the <hi>Tartars<g ref="char:punc">▪</g>
+               </hi> of <hi>Arrogoza, Lacaedemonia, Tratia, Traprobana; Fez,</hi> and ſome ſay <hi>Spain, de Jure;</hi> ſo <hi>France</hi> will have no Queen, &amp;c. and keep us out. Why may not then, all conſider'd, our King, Lords and Commons, the whole Nation <hi>(Huic ego nec metas rerum nec tempora pono. Virgil)</hi> make another Succeſſor, and not the D. eſpecially not taking the Crown out of the Line, as <hi>David</hi> did? He, <hi>a Man after God's own Heart,</hi> in like caſe, made not his next Heir, but <hi>Solomon,</hi> ſo far diſtant, his Succeſſor, 1 <hi>Kings</hi> 1.30. <hi>&amp;c.</hi> 1 <hi>Cr.</hi> 28. and likewiſe did the people make <hi>Hazariah</hi> King, 2 <hi>Kings</hi> 14.21. were to have made <hi>Roboam</hi> King, 1 <hi>Kings</hi> 12.1. and did make <hi>Jeroboam. v.</hi> 20. and all this without God's contradiction, yea, with his approbation; beſides ſo many other like Examples everywhere, though here, King and people did it either of them, and we do it altogether.</p>
+            <p>It may be Objected, There being a general Law or Cuſtom for Kingdoms going by Succeſſion, people can't chooſe a King <hi>Conarru, Archid, Gregor. Lup.</hi> and others; But what, ſay they, is the Reaſon? only 'cauſe the continuance of ſuch cuſtom, &amp;c. implies the peoples conſent to it.</p>
+            <p>Truly the Reaſons of our Adverſaries, methinks, implicitely acknowledge the power of altering the Succeſſion; <hi>(Huic ego nec tempora pono)</hi> the like has oft been practiſed in <hi>England;</hi> ſee the Statures, 25 <hi>H.</hi> 8.22. 26 <hi>H.</hi> 8.2. 28 <hi>H.</hi> 8.7<g ref="char:punc">▪</g>16 35 <hi>H.</hi> 8.1. 1 <hi>Ed.</hi> 6.12. 1 <hi>Mar.</hi> 1. 1 <hi>El.</hi> 3. 13 <hi>El.</hi> 1. nothing more plain! What impudence would caſt dirt in the face of ſo many of our Reverend An<g ref="char:EOLhyphen"/>ceſtors, and ſay they did they knew not what, or they could not do what they ſaid they could, after the Succeſſion? The very words of the Statute of 13 <hi>El. cap.</hi> 1. are:</p>
+            <q>It ſhall be High Treaſon, to affirm the Laws and Statutes do not bind the Right of the Crown, and the Deſcent, Limitation, Inheritance, or Gover<g ref="char:EOLhyphen"/>nance thereof,</q>
+            <p>Note, this part of the Act is in force yet, againſt our <hi>Pamphleteer,</hi> which ſays it is not, and the reſt is onely expired as relating but to the Queen. Nay, is it not a Maxim amongſt Papiſts, Not only that the Pope may at his pleaſure depoſe Kings, and diſpoſe of Crowns; but further, That the People may ever chooſe a King, when He ſhould elſe be an Heretick, &amp;c? ſo <hi>Frater Alfonſus de Caſtro.</hi> ſo <hi>Didac
+<pb n="4" facs="tcp:101613:3" rendition="simple:additions"/>Septiman. in Cathol. Inſt. T.</hi> 46. <hi>n.</hi> 75. Then if the D. be a Papiſt, as none deny him, now; he's a Heretick as to or from us, and what ſhall we do, not do by the Papiſts, as they would by us? <hi>Nec Lex eſt juſtior ulla quam necis artifices arte perire ſuâ.</hi> Withall conſider his Principles, All be Hereticks reſiſt the Authority of the Church of <hi>Rome</hi> [which is as large as the Infallible Pope pleaſes] or that differ with it in any point of Faith; <hi>Fides Haereticis non adhibenda,</hi> He's to keep nei<g ref="char:EOLhyphen"/>ther Word or Oath with us; nor is it any matter hence, what he ſays or ſwears to us; it's not only lawful and conſcientious to kill us, &amp;c. but a duty. Like this, the late Papiſt <hi>French</hi> King, raiſing and encouraging that dreadful Maſſacre of Pro<g ref="char:EOLhyphen"/>teſtants at <hi>Paris,</hi> &amp;c. and thouſands of ſuch like Examples. Then conſider's hu<g ref="char:EOLhyphen"/>mor ſo fierce, revengeful, and reſolute; but I'll ſay no more: Who knows not how improper it is, to make a Wolf, a Shepherd? Who's ſo thoughtleſs, as not ſee un<g ref="char:EOLhyphen"/>der a Papiſt King, how our Religion is hazarded all the World over? firſt loſt here, conſequently with eaſe elſewhere. How all our Lives, Eſtates, and Souls be hazar<g ref="char:EOLhyphen"/>ded, ſure nothing can be more; ſome for fear, ſome by force, and others to fa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter, will or muſt comply with him, or do worſe, if poſſible. <hi>An ill King,</hi> ſaith <hi>Solomon, over the poor People, is like a roaring Lyon, and a Bear ſeeking's prey,</hi> Prov. 28.15. In fine, Is it not better one <hi>James</hi> live, but like the greateſt Prince of the world, in ſtead of actually being King, than Three whole Kingdoms, together with ſeveral other Nations, ſhould utterly periſh? Nay, Is it not better to pull down one Houſe to ſave, than let a City periſh? Nay, Had you not rather cut off any of your own Members, than hazard your whole Body? <hi>Res ipſa loquitur;</hi> The thing ſpeaks it ſelf.</p>
+            <p>See other Papers wrote before to this effect; what in any is for the D. is anſwer'd all here; all the reſt, is here omitted as needleſs to repeat.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
